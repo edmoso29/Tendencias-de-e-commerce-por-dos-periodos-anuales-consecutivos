@@ -1,1 +1,1 @@
-# tendencia-de-una-tienda-e-commerce-por-dos-a-os
+Tendencia de una tienda e-commerce por dos periodos anuales consecutivos
